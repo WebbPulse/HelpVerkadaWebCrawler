@@ -11,4 +11,4 @@ Considersations:
 
 1. Language setting is stored in settings.py in the HelpVerkadaWebCrawler directory. In the event that new languages are supported, this will need to be updates to include the prefix for the new language so that the right start URLs are used
 
-2. All Scraped Data and custom query CSVs are stored in the Ouput folder. This folders contents are not synced with github
+2. All Scraped Data and custom query CSVs are stored in the Output folder. This folders contents are not synced with github
